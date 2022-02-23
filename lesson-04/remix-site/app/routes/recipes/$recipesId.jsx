@@ -33,6 +33,8 @@ export default function Recipes() {
           Back
         </Link>
       </div>
+      
+      {recipes.list.map((recipe)=> (<p className="page-content">{recipe} </p>))}
       <p className="page-content">{recipes.body}</p>
       <div className="page-footer">
         <form method="POST">

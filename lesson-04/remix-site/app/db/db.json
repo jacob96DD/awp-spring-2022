@@ -1,24 +1,27 @@
 {
   "recipes": [
     {
-      "id": "1",
-      "title": "recipes 1",
-      "body": "This is test recipes #1"
-    },
-    {
-      "id": "2",
-      "title": "recipes 2",
-      "body": "This is test recipes #2"
-    },
-    {
-      "id": "3",
-      "title": "recipes 3",
-      "body": "This is test recipes #3"
-    },
-    {
-      "id": "17f25b8ef81",
-      "title": "Brownies",
-      "body": "Brownie – ca 20 x 15 cm form – 8 personer\r\n125 g mørk chokolade\r\n100 g lurpak smør\r\n125 g brunfarin\r\n70 g mel\r\n30 g kakaopulver\r\n2 æg\r\net drys salt\r\n\r\nKaramel\r\n1 ds. kondenseret mælk tilsat sukker\r\n150  g sukker\r\n120 g lurpak smør\r\n1-2 tsk havsalt"
+      "id": "17f2603b3f7",
+      "title": "Brownie",
+      "list": [
+        "Brunsviger i en form 27×33 cm aluform\r",
+        "Brød delen\r",
+        "1,25 dl mælk\r",
+        "25 g gær\r",
+        "250-300 g hvedemel\r",
+        "15 g sukker\r",
+        "1/2 tsk salt\r",
+        "1 stk æg\r",
+        "50 g ægte smør – stuetemperatur\r",
+        "\r",
+        "Topping – aka det snaskede del\r",
+        "125 g brun farin\r",
+        "125 g ægte smør\r",
+        "50 g sirup\r",
+        "\r",
+        "Ekstra farin til drys – ca 2 store håndfulde"
+      ],
+      "body": "Fremgangsmåde\r\nBrød delen\r\nLun mælken og opløs gæren deri. Tilsæt mel, sukker, salt, æg og smør, ælt i hånden eller i en køkkenmaskine i 8-10 minutter. Tilsæt ekstra mel hvis dejen er for våd efter ca 5 min – 1  tsk ad gangen og ælt ca 30 sek inden du tilsætter mere – dejen skal lige have en chance for at optage melet i dejen.\r\nLad nu dejen hæve til dobbelt størrelse, det tager gerne 45 min til 1 time.\r\nFordel dejen i den smør smurte form, det kan kun liiige dække bunden. Har du problemer med at dejen klistre, kan du fugte dine fingere i kold vand, så hænger det ikke så let fast.\r\nLad dejen stå og hvile mens du laver toppingen.\r\n\r\nTopping\r\nKom brun farin, smør og sirup en i gryde og smelt det ved middel varme. Lad nu massen koge i ca 1 minut, så det bliver lækker karamel agtigt.\r\n\r\nMed let fugtede fingere laves nu små fordybninger i dejen. Fordel herefter den let karamelliseret topping ovenpå dejen. Lad den stå og hvile 10-15 minutter inden du igen laver små fordybninger i dejen så karamel-toppingen rigtig kan trænge ned i dejen og efterlade små skjulte lommer med den herligste topping mmm.\r\nNu skal den så igen stå og hæve i ca 30-45 minutter.\r\nHer efter må du endelig IKKE rører mere ved dejen eller lave flere fordybninger, får så kollapser dejen, øv.\r\nDrys forsigtigt en god håndfuld brun farin oven på kagen. Og gør det igen ca 1-2 min. før du vælger at tage brunsvogeren ud af ovnene."
     }
   ]
 }
