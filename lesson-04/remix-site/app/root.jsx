@@ -50,7 +50,7 @@ function Layout({ children }) {
           Remix Blog
         </Link>
         <ul className="nav">
-          <Link to="/posts">Posts</Link>
+          <Link to="/recipes">Recipes</Link>
         </ul>
       </nav>
       <div className="container">{children}</div>

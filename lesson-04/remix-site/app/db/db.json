@@ -1,19 +1,24 @@
 {
-  "posts": [
+  "recipes": [
     {
       "id": "1",
-      "title": "Post 1",
-      "body": "This is test post #1"
+      "title": "recipes 1",
+      "body": "This is test recipes #1"
     },
     {
       "id": "2",
-      "title": "Post 2",
-      "body": "This is test post #2"
+      "title": "recipes 2",
+      "body": "This is test recipes #2"
     },
     {
       "id": "3",
-      "title": "Post 3",
-      "body": "This is test post #3"
+      "title": "recipes 3",
+      "body": "This is test recipes #3"
+    },
+    {
+      "id": "17f25b8ef81",
+      "title": "Brownies",
+      "body": "Brownie – ca 20 x 15 cm form – 8 personer\r\n125 g mørk chokolade\r\n100 g lurpak smør\r\n125 g brunfarin\r\n70 g mel\r\n30 g kakaopulver\r\n2 æg\r\net drys salt\r\n\r\nKaramel\r\n1 ds. kondenseret mælk tilsat sukker\r\n150  g sukker\r\n120 g lurpak smør\r\n1-2 tsk havsalt"
     }
   ]
 }

@@ -6,5 +6,5 @@ const adapter = new JSONFileSync(file);
 const db = new LowSync(adapter);
 
 db.read();
-db.data = db.data || { posts: [] };
+db.data = db.data || { recipes: [] };
 export default db;
